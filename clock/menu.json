@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "name": "Clock: Test (2 min)",
+      "action": "sh ./launch.sh preview"
+    },
+    {
+      "name": "Clock: Start",
+      "action": "sh ./launch.sh start"
+    },
+    {
+      "name": "Clock: Stop",
+      "action": "sh ./launch.sh stop"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "file": "FBInk-CREDITS.txt",
+    "bytes": 7417,
+    "sha256": "3ed6f9c7c4bdbd3eefa667008d29e622aad97b47a6c2b0a85fc855e81d07f2f9"
+  },
+  {
+    "file": "FBInk-LICENSE.txt",
+    "bytes": 35149,
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "file": "bin/fbink",
+    "bytes": 1066996,
+    "sha256": "b6e9b97f7f9f2945d7792674420f5767d9a2ff437a9e6b96893bf03f4ad027c4"
+  },
+  {
+    "file": "clock.sh",
+    "bytes": 6860,
+    "sha256": "c15254d59270a337853eda27691a43894b28e7a1e4324c0bdca976387ef46bea"
+  },
+  {
+    "file": "config.xml",
+    "bytes": 289,
+    "sha256": "9e5a207f8d4f01e8f45add4a7ae9dbd1cdaf9e769e1c1a24a66a3edcd4cbd8df"
+  },
+  {
+    "file": "launch.sh",
+    "bytes": 367,
+    "sha256": "f8dddec107f4662d163f8ea44df26c5499131f7314bb15af3b582081c5580613"
+  },
+  {
+    "file": "menu.json",
+    "bytes": 273,
+    "sha256": "7c8e8474c18134e53d8fe41e4be6ff44c0083e01e5f310253cb4b63a938e0bd3"
+  }
+]

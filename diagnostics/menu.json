@@ -1,0 +1,8 @@
+{
+  "items": [
+    {
+      "name": "Clock: Check Device",
+      "action": "sh ./check-device.sh"
+    }
+  ]
+}

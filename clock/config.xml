@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+  <information>
+    <name>Xiamen Clock</name><version>1.0</version>
+    <author>Local KT2 adaptation</author><id>local-xiamen-clock-kt2</id>
+  </information>
+  <menus><menu type="json" dynamic="true">menu.json</menu></menus>
+</extension>
